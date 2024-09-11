@@ -1,0 +1,15 @@
+{
+  "name": "travel-tailwind",
+  "version": "1.0.0",
+  "description": "Travel top destination of the world.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "landing page"
+  ],
+  "author": "Randy Hasibuan",
+  "license": "ISC"
+}
